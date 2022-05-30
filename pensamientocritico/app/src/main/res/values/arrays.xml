@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="curso">
+        <item>"1º ESO"</item>
+        <item>"2º ESO"</item>
+        <item>"3º ESO"</item>
+        <item>"4º ESO"</item>
+        <item>"1º Bachillerato"</item>
+        <item>"2º Bachillerato"</item>
+        <item>"1º SMR"</item>
+        <item>"2º SMR"</item>
+        <item>"1º ASIR"</item>
+        <item>"2º ASIR"</item>
+        <item>"1º DAW"</item>
+        <item>"2º DAW"</item>
+        <item>"1º DAM"</item>
+        <item>"2º DAM"</item>
+    </string-array>
+    <string-array name="letra">
+        <item>"A"</item>
+        <item>"B"</item>
+        <item>"C"</item>
+    </string-array>
+    <string-array name="centroEducativo">
+        <item>"IES Zaidín-Vergeles (Granada)"</item>
+        <item>"EIG (Granada)"</item>
+        <item>"Colegio Amor de Dios (Almería)"</item>
+    </string-array>
+</resources>

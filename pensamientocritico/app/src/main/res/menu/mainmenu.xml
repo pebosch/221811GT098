@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/optPrivacy"
+        android:title="Politica Privacidad" />
+    <item
+        android:id="@+id/optAdmin"
+        android:title="Administrador" />
+    <item
+        android:id="@+id/optExit"
+        android:title="Salir" />
+</menu>
